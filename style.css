@@ -1,0 +1,6 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(#221d33 0%, #1e1b2d 75%);
+}
